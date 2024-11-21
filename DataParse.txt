@@ -1,0 +1,16 @@
+** All data pulled from FactSet data base through dhillon school of business student account **
+
+Company: MP Materials
+Ticker: CVE-TSE
+Industry: Com
+Exchange: NASDAQ
+
+Date: 2024/09/24
+
+Monte Carlo Simulation Data:
+
+S0: 17.56
+mu: 0.05
+sigma: 1.52
+T: 1
+num_steps: 252
