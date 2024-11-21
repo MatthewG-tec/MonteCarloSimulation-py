@@ -1,6 +1,3 @@
-By: Matthew Gillett - matthew.gillett@uleth.ca
-Id: 001230643
-
 Monte Carlo Simulation for Stock Pricing Forecasting:
     - This project implements a Monte Carlo Simulation to forecast stock prices based
     on user-defined parameters. Reading input parameters from a txt file, and performs
